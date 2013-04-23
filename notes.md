@@ -14,19 +14,22 @@ Enter the world of style guides and see how they can improve this cooperation.
 	- History of Style Guides
 	- What are Style Guides and how can we use them?
 - Friendship
-	- Creating projects together is like working as friends in a team
-	- teams need friendships
-		- Pokémon (http://www.ligapokemon.com/2009/07/primeira-temporada-liga-indigo.html)
-			- Team Rocket (http://www.zerochan.net/802097)
+	- You mostly never work alone in web development
+	- you form a team with others
+	- working in a team is about being friends with each other
+	- because teams need friendships
+	- Let us look at some examples:
+		- Pokémon
+			- Team Rocket
 				- Mission: obtaining powerful and rare Pokémon, someday taking over the world.
-		- A-Team (http://www.clubhaus80s.com/blog/team)
+			- Ash & Co.
+		- A-Team
 			- run from the Army after being branded for a "crime they didn't commit"
 	- Sometimes friendships are hard
 	- It's hard to work in teams
 	- Who doesn't know sentences like
 		- "Are you even listening"
 		- "You never admit you're wrong"
-		- http://www.plyrics.com/lyrics/confide/mychoiceofwords.html
 	- In oder to become friends within a team there are little helpers
 	- One of them are style guides
 	- To understand them, let's look a bit back in hisory
@@ -41,7 +44,7 @@ Enter the world of style guides and see how they can improve this cooperation.
 			- clothing, armor, flags, shields, tableware and so on
 	- Simple graphics became more and more important for professions through the 16th century
 		- Example: Caduceus for physicians
-		- http://upload.wikimedia.org/wikipedia/commons/5/57/Caduceus.svg (http://en.wikipedia.org/wiki/File:Caduceus.svg)
+			- Which has it's own Unicode sign nowadays (U+2624)
 		- government offices were established throughout Europe to register and protect trademarks
 	- trademarking for businesses: spread heavily during the Industrial Revolution
 	- In the 20th century nearly every company had a corporate identity

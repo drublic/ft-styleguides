@@ -60,7 +60,7 @@ body {
 }
 
 .controls {
-	opacity: 0;
+	opacity: 0.3;
 
 	-webkit-transition: opacity .3s;
 	   -moz-transition: opacity .3s;
