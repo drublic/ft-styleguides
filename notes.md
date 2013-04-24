@@ -51,7 +51,6 @@ Enter the world of style guides and see how they can improve this cooperation.
 		- Publishers establish rules for language use, such as spelling, italics and punctuation
 			- consistency
 		- In univerities: Schoolars are asked to stick to guide lines when publishing something
-		- http://en.wikipedia.org/wiki/Style_guide
 		- Lufthansa Styleguide from 1962 - Ulmer Studie
 			- General usage of the logo and word mark for all products
 			- From PDF to online -> open style guide
@@ -78,7 +77,7 @@ Enter the world of style guides and see how they can improve this cooperation.
 	* Who does neither?
 	* Everyone else knows how they have to fight their inner dev or designer to accept the opinion of the other "soul"
 
-- Fighting something is always bad
+- Fighting about something is always bad
 - Fighting has a bad influence on what you do
 - But struggeling with other peoples opinion is normal
 - Because we are all different
@@ -86,14 +85,16 @@ Enter the world of style guides and see how they can improve this cooperation.
 - When working in a team…
 	- it's important to create guidelines together
 	- Because we are all experts
-	- Together… because it is hard to change your own opinion
+	- Together… because it is hard to change your own opinion and behavior
 	- Stanford Uni study (http://piee.stanford.edu/cgi-bin/docs/behavior/workshop/2008/presentations/03-02_New_Research_on_Behavior_Change.pdf)
 	- How to change behavior
 		- Biological reasons and logical thinking.
-		- Choice and models of agency.
+		- Choice and models of society.
+			- British/Texas accent
 		- Social belonging.
 		- Goals and feedback.
 	- Learning from each other to become better
+
 - What are Style Guides for developers?
 	- Coding Guidelines / Coding style
 		- Why?
